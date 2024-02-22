@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME" 
+title: "MOOREA MCKINSEY" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -15,27 +15,28 @@ about:
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/moorea27/moorea27.github.io.git
     - icon: file-earmark-pdf
       text: Resumé
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:mgm15@geneseo.edu
 
 ---
 
-
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+My current major in college is economics. I am taking DANL 200-02 for my credits
+and is needed for my major. Other than school I like socializing with my friends
+and being outside whether thats taking walks or hanging out. 
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+Majoring in economics | Aug 2023 - May 2027 <br>
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Introduction to Data analytics 200-02
+
 
 

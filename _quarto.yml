@@ -3,23 +3,23 @@ project:
   output-dir: "."
 
 website:
-  title: "MOOREA MCKINSEY"
+  title: "MOOREA MCKINSEY" 
   navbar:
     pinned: true
     left:
       - text: Project
         href: project.qmd
-      - text: Blog
-        href: blog-listing.qmd
+      - text: R Basics
+        href: danl-200-quarto.qmd
             
   page-footer: 
-    center: "Powered with GitHub and Quarto<br>© YOUR NAME, 2023"
+    center: "Powered with GitHub and Quarto<br>© Moorea Mckinsey, 2024"
 
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light: morph
+      dark: morph
     mainfont: system-ui; 
     highlight-style: atom-one
     css: styles.css
